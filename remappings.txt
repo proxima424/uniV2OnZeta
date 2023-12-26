@@ -1,0 +1,5 @@
+@uniswapV2core=lib/v2-core/contracts
+@uniswapV2periphery=lib/v2-periphery/contracts
+@oz=lib/openzeppelin-contracts/contracts
+@uniswap/=lib/
+@uniswapLib/=lib/solidity-lib/
